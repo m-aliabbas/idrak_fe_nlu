@@ -1,0 +1,823 @@
+- intent: BUSY
+  examples: |
+    - Can't take your call now.
+    - Please call again later.
+    - Please call again later.
+    - Not available.
+    - Is currently unavailable.
+    - busy at the moment. Leave a message and I'll return to call as soon as possible.
+    - I'm driving though. I gotta hang up.
+    - I guess I'll talk to you later.
+    - I'm busy right now.
+    - I'm about to walk.
+    - I'm kind of busy
+    - I'm shopping right now so I'll call you back.
+    - You have to call back later on busy right now.
+    - I have to go. You must go on your day.
+    - I'm at work on an outreach.
+    - he's busy right now. You can call that later. Thank you.
+    - I'm driving.
+    - I'm real busy.
+    - I am at my doctor's appointment, and I don't have time to talk.
+    - Not right now. I am very busy right now.
+    - No, I don't have the time to talk with you in the house. I'm just going...
+    - but I can't talk.
+    - now I'm busy.
+    - I don't have time to talk. 
+    - I'm driving off.
+    - Right now, I'm not able to talk right now. Bye.
+    - because I'm kind of busy right now, but you can call back later.
+    - I'm very busy right now.
+    - I'm working right now.
+    - Well, I'm leaving right now.
+    - I'm going to go to the gym.
+    - I don't have time. You know, I don't have time to be met with final expense right now.
+    - I can't talk to you now
+    - I'm busy. Thank you. I'm busy.
+    - I'm at a doctor's office right now so I can't hold a talk.
+    - I'm going someplace. Bye bye.
+    - I'm waiting to let this cook therapy so I can't talk right now.
+    - I'm busy right now, could you call me back a little later?
+    - but I'm doing a mom drive
+    - I'm starting to go, so you want to call back a little later?
+    - I'm busy right now. I'm busy right now. 
+    - So call me another time, okay?
+    - I'm busy this morning.
+    - I don't have time to talk to you today.
+    - I can't talk right now.
+    - Oh, it's not a good time, Becky. I'm sorry I can't take this call.
+    - right now I'm very busy. I'm very busy.
+    - I'm busy.
+    - I'm very, very busy, busy, busy, busy, busy.
+    - I'm busy right now. You're going to have to call back. I'm just busy.
+    - but this is not a good time.
+    - I'm working. I really can't talk to you.
+    - I don't have a name right now, so I'm going to go.
+    - I'm in hurry. I'm working. I can't talk to you now. I'm sorry. I'm always back. I'm sorry.
+    - I'm driving so I can't talk. Goodbye. Bye. Bye.
+    - I don't have time.
+    - really busy right now.
+    - but I'm busy.
+    - but I'm very busy right now.
+    - I'm at the hospital. I'm doing treatment.
+    - I'm working.
+    - Ma'am, I'm on my way out the door. I really don't have time for this.
+    - I'm getting ready to go to Dr. Dining.
+    - I'm cooking breakfast right now.
+    - I'm kind of busy right this minute though.
+    - I'm sleeping. I'm taking a nap and you woke me up.
+    - Well, I'm just fixing to walk out the door. I'm sorry, I don't have time to talk.
+    - I have company at the moment. This is not a good time for the
+    - Not a good time right now
+    - I don't have time to. I can't.
+    - but I just don't have time to talk today.
+    - My mom is busy
+    - but I'm working
+    - I'm a little busy right now.
+    - I'm driving right now.
+    - I don't have time for this call. Bye.
+    - It's stormy here, so I can't talk.
+    - Uh, getting ready to take a shower. Good. I have to go.
+    - you see got me in the wrong time.
+    - I'm sorry, but I can't take these phone calls at work.
+    - But this is bad time, sir.
+    - I'm very busy
+    - Busy.
+    - . I'm working man. I don't have time for this right now.
+    - You want to call me back? I'm at the doctor's office right now.
+    - I'm sleeping.
+    - It is time to sleep.
+    - I don't have time for this.
+    - but I'm working right now.
+    - I'm doing something right now. I'm out eating dinner. So I'll call you back later.
+    - actually I am busy
+    - , I'm a little busy in the middle, because I'm going to a funeral.
+    - I am too busy for y'all's mess.
+    - so now is not a good time.
+    - I don't have time for this now.
+    - I am in the middle of something real important right now. Call me back.
+    - I can't talk.
+    - I'm close to the house today. I'll be back after the first of the funeral.
+    - I don't have the time.
+    - I'm waiting to get an MRI. I'd appreciate it if you take us off your call
+    - No, not at this time.
+    - Busy, Busy?
+    - I'm right in the middle of something and I can't.
+    - I don't have time to do that.
+    - we're all busy right now Becky, we don't want to talk to you today.
+    - I'm very busy my dear.
+    - , you need to call later
+    - I don't have time for this. Bye.
+    - I'm at work, Becky.
+    - I've got company here, and I can't. I have to go. OK. I can't talk
+    - I'm a little busy right now. I'm unable to talk on the phone.
+    - I'm really busy.
+    - Can you come back in the 15 minutes or so?
+    - I can't talk to you.
+    - cuz you call me later. Please. What happened, ma'am? Are you busy right now? Yeah.
+    - I am busy. I am waiting for my ride to go to the doctor.
+    - I'm driving. I'm driving. I'm driving.
+    - I don't have time for this right now.
+    - I'm at work.
+    - I'm real busy now.
+    - I'm utterly busy with doing my book work.
+    - You just have to call back.
+    - trying to get my stuff ready to get out here soon enough.
+    - Right now I'm very busy so you pick the bad time.
+    - I'm driving this coming back to the school.
+    - I'm kind of busy right now.
+    - you have to call me back later.
+    - I don't have time to talk.
+    - I'm leaving now and I cannot attend your calls.
+    - I don't understand you, so talk to you later.
+    - I'm taking my class right now. So you can call me back later because I'm a little busy right now.
+    - I'm going to work right now.
+    - I'm at work right now. You're going to have to call me back.
+    - Well, you call me back later. I have company right now.
+    - I don't have time for this today.
+    - very busy.
+    - I'm very, very busy right now.
+    - No, not right now.
+    - Well, I'm actually at work right now.
+    - I'm at work. I'm at work right now.
+    - I'm not at home. I'm back work.
+    - well right now I can't talk.
+    - I'm getting ready to go to a doctor's appointment. You're going to have to call me back.
+    - I'm at work, and I can't talk.
+    - I'm very busy and I'm very tired.
+    - please call back later.
+    - I don't want to talk about it now. If you call me tomorrow, I'll talk with you about it. But not today.
+    - I'm so busy.
+    - I'm on a job right now. You know, and I'm a plumber, you know, the line starts up and the man is here.
+    - I'm a little busy.
+    - I'm very busy today, Becky. I can't talk to you.
+    - Well, I'm going to work right now.
+    - , I really can't talk. Can I see some, okay then I will give a call back tomorrow, okay?
+    - because I'm driving and I can't concentrate on that.
+    - There's a mission I love, so I'm very busy.
+    - can you call me back?
+    - busy right now
+    - I'm in a hurry so I can't talk to you now.
+    - I'm driving. I can't talk right now.
+    - So I'll talk to you later.
+    - I'm sorry for the interruption, because we are busy for taking care of the illness here in the care home. May you please call on later?
+    - I'm very busy and I do not have time to talk to you.
+    - I'm kind of busy. I don't have time for anything.
+    - I'm at work. I'm at work. I'm at work. I'm at work.
+    - I just don't have time to talk on the phone.
+    - Not at this time. I am very, really busy now
+    - I'm going to be busy.
+    - I'm real busy, Becky.
+    - Can you call me another time?
+    - I'm pretty busy right now. So I can't really take time to answer.
+    - I'm actually in kind of busy right now, honey.
+    - I'm driving on my way to work
+    - right now I'm busy and I don't have time to.
+    - I'm in the middle of a doctor's session.
+    - I'm really, really busy right now. I can't talk. Bye bye.
+    -  I have to call.
+    - I'm too busy
+    -  I'm very busy.
+    - actually don't have time.
+    - Could you call back later please
+    - I'm sorry that I cannot talk with you today
+    - I'm really quite busy right now
+    - Please, I'm driving
+    - You can call me back about three o'clock, because I'm busy right now
+    - but I'm not able to talk right now
+    - I can't. I'm busy
+    - I'm driver right now, ma'am
+    - but you are busy.
+    - Very, very busy, sorry
+    - I'm in hospital now. I'm in hospital right now
+    - I need a little bit of scalding me up easily
+    - I'm in a bad situation, but I have to talk to you later
+    - Oh, I'm a little busy
+    - . I ain't got time to talk to you guy
+    - I don't have time 
+    - I can't talk when I'm busy
+    - I am going into work right now so I can't talk
+    - but I'm in the process of having dinner.
+    -  I'm busy.
+    - Well, I don't have time for this today time in the middle of fact right now, so goodbye
+    - I'm busy right now. I'm busy.
+    - so she's going to call back to you later.
+    - I'm working right now. I'm busy
+    - I am very busy right now
+    - Forget it, I'm busy.
+    - I'm expecting a call from my daughter anytime
+    - I'm very busy. What do you got?
+    - I'm pretty busy
+    - . I can't talk on work.
+    - I'm in the doctor's office right now
+    - We are reading down
+    - I'm less available right now.
+    - I'm busy and have a good day
+    - I don't have time right now. I'm busy
+    - I've just been so busy.
+    - I was expecting another call actually.
+    - It's dinner time.
+    - Oh, busy.
+    - I'm OK with this written on an important phone call
+    - I'm at work right now
+    - you call me a little after 10 minutes because she was busy with me.
+    - I just got in from board, so can you call back at another time?
+    - I'm busy. I'm walking the middle
+    - I work a lot less time.
+    - I'm busy and get time to
+    - Call this early in the morning.
+    - I'm going to go to the boat or trailer home
+    - I'm busy. I'm at work
+    - I don't have time to visit with you
+    - I work. I can't tell.
+    - I must be busy, sleep,
+    - I'm really busy right now,
+    - I'm busy back now.
+    - I'm doing I'm busy
+    - I'm busy here in here around the house
+    - I'm busy eating. Call me another time.
+    - I can't talk right now.
+    - I'm going to hang up.
+    - I'm just not ready to decide. But thank you for telling. I'm not ready to decide.
+    - We don't want to talk to anybody.
+    - I don't want to talk about this right now.
+    - I'm doing wonderful and I'm going to even better because I'm going to hang up now.
+    - Right now I don't need nothing because I'm with the vet.
+    - I don't want to talk about this right now.
+    - I'm doing wonderful and I'm going to even better because I'm going to hang up now.
+    - Right now I don't need nothing because I'm with the vet.
+    - yes i am but i have to go
+    - I'm ready to go to the doctor.
+    - I am busy
+    - I'm currently tied up in a meeting.
+    - Unfortunately, I'm busy right now due to another commitment.
+    - My schedule is quite packed at the moment, can we talk later?
+    - I'm afraid I can't chat right now, but can we catch up later?
+    - I'm in the middle of something important, can I get back to you soon?
+    - Apologies, I'm engaged in a conference call.
+    - I'm occupied with a client meeting, can we connect afterwards?
+    - Regrettably, I'm unavailable for a conversation right now.
+    - I'm in a work session at the moment, can we discuss this later?
+    - Currently involved in a project, can we chat at another time?
+    - I'm tied up with a deadline, can we communicate later?
+    - Sorry, but I can't chat right now i am busy.
+    - I'm swamped with tasks at the moment, can we talk later?
+    - I'm immersed in a task, can I reach out to you afterwards?
+    - Currently engaged in a task, can we converse later?
+    - I am busy right now.
+    - I am currently busy.
+    - I'm tied up in a meeting until later, can we connect then?
+    - I'm busy right now, let's catch up when I'm free.
+    - Can we talk at another time? I'm busy with something.
+    - I'm in the middle of a project, can we discuss later?
+    - I'm occupied at the moment, can we chat afterwards?
+    - I'm involved in a conference call, can I contact you later?
+    - Sorry, but I can't talk now, can we communicate later?
+    - Can't chat right now, I'm in a meeting. How about later?
+    - I'm currently in a call, can we talk when it's over?
+    - I'm unavailable for a conversation right now, can we reschedule?
+    - I'm engaged in a task, can we talk at a different time?
+    - I'm in a meeting until later, can I get back to you then?
+    - Unfortunately, I'm tied up at the moment. Let's connect later.
+    - I'm occupied with work, can we discuss this later?
+    - Can't talk now, I'm in a meeting. Can we chat later?
+    - Sorry, I can't chat right now, can we catch up soon?
+    - I'm in a conference call, can I reach out to you afterwards?
+    - I'm busy with a project, can we talk later?
+    - I'm busy right now, can we talk at another time?
+    - I'm tied up in a meeting, let's connect when I'm free.
+    - I'm currently engaged in a task, can we converse later?
+    - I'm occupied with a client meeting, can we connect later?
+    - I'm in the middle of something important, can we talk later?
+    - I'm busy at the moment. Can I call you back?
+    - I'm swamped with tasks right now, can we chat later?
+    - I'm immersed in a task, can we communicate later?
+    - I'm engaged in a conference call, can we talk later?
+    - I'm involved in a project, can we discuss this later?
+    - I'm in a meeting until later, can we chat then?
+    - Sorry, but I can't chat right now. Can we catch up later?
+    - I'm currently in a call, can I reach out to you afterwards?
+    - I'm busy with a task, can we connect at a different time?
+    - I'm unavailable for a conversation right now. Let's talk later.
+    - I'm occupied with work, can we chat when I'm free?
+    - Can't talk now, I'm in a meeting. Can we talk later?
+    - I'm tied up in a meeting, can I contact you afterwards?
+    - Sorry, I'm in a meeting. Can we connect afterwards?
+    - Oh, I'm swamped with work right now. Can we talk later?
+    - I can't talk at the moment, i am busy I have something going on.
+    - Can you give me a little time? I'm occupied with something.
+    - I'm currently dealing with a task, can we discuss later?
+    - I'm in a meeting, can I get back to you in a bit?
+    - I'm busy with a project, can we catch up later?
+    - I'm tied up right now, can we connect at another time?
+    - Sorry, but I'm engaged in something. Can we talk later?
+    - I'm in a call at the moment, can I reach out to you shortly?
+    - I'm occupied with work, can we chat later on?
+    - I'm involved in a task right now, can we converse later?
+    - I can't chat now, I have a commitment. Let's talk later.
+    - I'm in a meeting, can we discuss this at a different time?
+    - I'm busy with something, can we connect after this?
+    - Sorry, I can't chat right now. Can we catch up soon?
+    - I'm tied up, can we chat when I'm free?
+    - I'm swamped with tasks, can we talk later?
+    - I can't talk at the moment, I'm occupied with work.
+    - Can you wait a bit? I'm in a call right now.
+    - I'm currently busy, can we converse later?
+    - I'm in a meeting, can we talk afterwards?
+    - I'm busy with a project, can we connect in a while?
+    - I'm occupied, can we catch up when I'm available?
+    - Sorry, I'm in a meeting. Can we discuss this later?
+    - Oh, I'm tied up right now. Can we talk later?
+    - I can't talk at the moment, I have something going on.
+    - Can you give me a moment? I'm occupied with something.
+    - I'm currently dealing with a task, can we connect later?
+    - I'm in a meeting, can I get back to you shortly?
+    - I'm in a call at the moment, can I reach out to you in a bit?
+    - I'm currently engaged, can we converse later?
+    - Can't chat now, busy. Catch you later?
+    - Busy, talk later?
+    - Busy, let's catch up soon.
+    - In a meeting, can we connect later?
+    - Sorry, tied up. Can we talk later?
+    - No time now, let's talk later.
+    - Currently busy, talk to you later?
+    - Busy right now, can we chat later on?
+    - Can't talk now, busy. Let's connect later.
+    - In a call, can we talk afterwards?
+    - Sorry, busy at the moment. Can we chat later?
+    - I'm occupied, let's talk later.
+    - Currently tied up, can we discuss later?
+    - Busy, can we catch up in a while?
+    - In a meeting, can I reach out later?
+    - Engaged, let's talk later on.
+    - Sorry, tied up. Can we talk soon?
+    - Busy, can we chat in a bit?
+    - No time to talk now, catch you later?
+    - Occupied, talk to you later?
+    - Busy with tasks, can we connect later?
+    - In a call, let's chat afterwards.
+    - Sorry, busy right now. Can we talk later?
+    - I'm occupied, can we catch up later?
+    - Currently tied up, can we talk afterwards?
+    - Busy, can we discuss later on?
+    - In a meeting, can we chat in a while?
+    - Engaged, can we connect later?
+    - Sorry, tied up. Let's talk later.
+    - Busy, can we talk soon?
+    - No time now, catch you later?
+    - Occupied, talk later?
+    - Busy with tasks, let's connect later on.
+    - In a call, can we talk later?
+    - Sorry, busy at the moment. Can we chat afterwards?
+    - I'm occupied, let's talk soon.
+    - Currently tied up, can we chat in a bit?
+    - Busy, can I reach out later?
+    - In a meeting, let's catch up later.
+    - Engaged, can we talk in a while?
+    - Sorry, tied up. Can we talk later on?
+    - Busy, can we discuss later?
+    - No time to talk now, can we connect later?
+    - Occupied, let's chat afterwards.
+    - Busy with tasks, can we talk soon?
+    - In a call, can we catch up in a bit?
+    - Sorry, busy right now. Let's talk later.
+    - I'm occupied, can we connect later on?
+    - Currently tied up, talk to you later?
+    - Busy, can we talk afterwards?
+    - Sorry, I'm in a briefing. Can we talk later?
+    - Can't chat now, occupied. Let's talk later.
+    - My plate is full at the moment, can we connect later?
+    - I'm tied up with a client meeting, can we converse later?
+    - Regrettably, I'm busy for a conversation right now.
+    - Currently engaged in a task, can we chat later?
+    - Sorry, but I can't chat right now due to a commitment.
+    - I'm currently in a call, can I ring you back?
+    - Unfortunately, I'm engaged in something. Can we talk later?
+    - I'm in a call at the moment, can I get back to you shortly?
+    - Can't chat right now, I have a commitment. Let's talk later.
+    - Hey, I'm actually on another call right now. Can I ring you back?
+    - Sorry, I'm engaged in a call at the moment. Can you give me a moment?
+    - I can't chat now, currently on a call. Can we talk after?
+    - Busy with a call, can I get back to you shortly?
+    - I'm in the middle of a call, can we connect in a bit?
+    - I'm currently on another call, can we talk later?
+    - I'm on a call right now, can I reach out to you when it's done?
+    - Sorry, I'm on a call. Can we catch up later?
+    - Can't talk now, on a call. Let's connect afterwards.
+    - In a call, can we chat when I'm finished?
+    - I'm busy with a call, can we discuss later?
+    - Currently on a call, can we talk in a bit?
+    - I'm engaged in a call, can we connect after it's over?
+    - Sorry, but I'm on a call. Can we talk later?
+    - I'm on a call at the moment, can I call you back?
+    - Busy with a call, can I get back to you soon?
+    - I'm in the middle of a call, can we talk later?
+    - I'm currently on a call, can I ring you back later?
+    - I'm on a call right now, can we chat after it's finished?
+    - Sorry, I'm engaged in a call. Can you wait for a moment?
+    - Can't chat now, on a call. Let's talk afterwards.
+    - In a call, can we discuss later on?
+    - I'm busy with a call, can we connect when it's done?
+    - Currently on a call, can we talk soon?
+    - I'm engaged in a call, can I reach out to you later?
+    - Sorry, but I'm on a call. Can we catch up in a bit?
+    - I'm on a call at the moment, can we talk after?
+    - Busy with a call, can I call you back later?
+    - I'm in the middle of a call, can we chat later?
+    - I'm currently on a call, can we connect afterwards?
+    - I'm on a call right now, can I get back to you shortly?
+    - Sorry, I'm on a call. Can we talk in a while?
+    - Can't talk now, on a call. Let's chat later.
+    - In a call, can we connect later on?
+    - I'm busy with a call, can we talk after it's done?
+    - Currently on a call, can we catch up afterwards?
+    - I'm engaged in a call, can we discuss later?
+    - Sorry, but I'm on a call. Can we connect in a bit?
+    - I'm on a call at the moment, can I reach out to you later?
+    - Busy with a call, can we talk soon?
+    - I'm in the middle of a call, can we talk later on?
+    - I'm currently on a call, can we chat afterwards?
+    - I'm on a call right now, can we catch up later?
+    - In a call, can we connect after it's finished?
+    - I'm busy with a call, can we talk in a bit?
+    - Currently on a call, can I ring you back later?
+    - I'm engaged in a call, can we talk later?
+    - Sorry, but I'm on a call. Can we discuss later on?
+    - I'm on a call at the moment, can we connect when it's done?
+    - call again later
+    - i am driving right now
+    - i am busy right now
+    - i am in a meeting
+    - i am stuffed right now, can't talk
+    - can't talk right now, call me later
+    - busy
+    - already occupied buddy, call again
+    - can I get back to you later
+    - i am in the office
+    - man, i am busy right now
+    - i am very busy
+    - not available right now
+    - Sorry, I'm currently tied up.
+    - Catch me at another time, please.
+    - Can't chat right now, give me a shout later.
+    - Engaged at the moment, let's reconnect later.
+    - I'm swamped right now, can we talk later?
+    - Currently unavailable for a chat.
+    - I'll be free to talk later, can you call back?
+    - In the middle of something, can we discuss later?
+    - Give me a moment, I'm occupied right now.
+    - Not the best time to chat, try again later.
+    - Apologies, I can't chat at the moment.
+    - Busy handling things, can we connect later?
+    - Can't spare a moment right now, let's chat later.
+    - I'm tied up, let's talk another time.
+    - Got my hands full, call me back later.
+    - Currently in a tight spot, let's reconnect later.
+    - Can we discuss this later? I'm occupied now.
+    - Sorry, can't talk right now due to prior commitments.
+    - I'll be more available later on, can we talk then?
+    - Can't chat presently, can we connect later?
+    - Hold on, I'm currently occupied.
+    - Sorry, but I'm not free to chat right now.
+    - Give me some time, I'm unavailable at the moment.
+    - Can you check back later? I'm busy now.
+    - Engaged with something, let's talk later.
+    - I'm in the middle of work, can't chat now.
+    - Can we postpone this conversation? I'm busy.
+    - Currently tied up, let's connect later.
+    - I'll be available shortly, can you wait?
+    - In the midst of something, reach out later.
+    - Sorry, I'm currently occupied with tasks.
+    - Let's talk when I'm less busy, okay?
+    - Can't give my full attention now, reconnect later.
+    - Currently handling matters, can we talk later?
+    - I'm preoccupied, can we chat another time?
+    - I'll be back in touch once I'm free.
+    - Unavailable right now, let's catch up later.
+    - Can't take a call now, contact me later.
+    - Currently engaged, can't talk at the moment.
+    - I'm tied up with work, let's talk later.
+    - Sorry, I'm in the middle of something right now.
+    - Not a good time to chat, try again later.
+    - Can we schedule a call for later? I'm busy now.
+    - Can't talk now, can you call back shortly?
+    - Occupied at the moment, reach out later.
+    - Give me a moment, I'm attending to something.
+    - Sorry, but I'm currently unavailable for a chat.
+    - Can we connect when I'm free? I'm occupied now.
+    - Let's reschedule this conversation, I'm busy.
+    - Currently occupied with tasks, let's talk later.
+    - Can't give full attention now, catch me later.
+    - Engaged in something, let's reconnect later.
+    - Sorry, I can't chat right now due to commitments.
+    - I'll be available soon, can you wait a bit?
+    - Busy right now, let's continue later.
+    - Not the best time for a conversation, reconnect later.
+    - Can we postpone this discussion? I'm occupied.
+    - Currently tied up, reach out again later.
+    - I'll get back to you when I'm free.
+    - Unavailable at the moment, let's chat later.
+    - Can't take a call presently, call back later.
+    - Currently engaged, please contact me later.
+    - I'm occupied with work, can we talk later?
+    - Sorry, I'm currently occupied with something.
+    - It's not a good time to chat now, try later.
+    - Can we schedule a chat for later? I'm busy.
+    - Can't talk right now, can you call back later?
+    - Busy right now, let's reconnect later.
+    - Currently busy with a task, let's talk later.
+    - Can't focus on a call now, reach out later.
+    - I'm tied up with commitments, reconnect later.
+    - Sorry, can't chat at the moment due to workload.
+    - I'll be available in a while, can you wait?
+    - Engaged currently, let's discuss this later.
+    - Occupied right now, let's reconnect soon.
+    - Can we continue this conversation later? I'm busy.
+    - Currently preoccupied, let's talk another time.
+    - Can't chat now, catch me when I'm free.
+    - I'll get back to you once I'm available.
+    - Can't engage in a conversation now, try later.
+    - Busy with something, let's reconnect later.
+    - I'm currently tied up with tasks, let's talk later.
+    - Not the right time to chat, reconnect later.
+    - Can we reschedule this? I'm occupied.
+    - Occupied at the moment, let's reconnect later.
+    - I'll be able to chat later, can you wait?
+    - Engaged in something, reach out again later.
+    - Sorry, I can't talk right now due to commitments.
+    - Can we discuss this later? I'm busy right now.
+    - Can't chat at the moment, call back later.
+    - Busy with tasks, let's reconnect later.
+    - Currently occupied, can we talk later?
+    - Can we postpone this talk? I'm busy now.
+    - In the midst of something, can we reconnect later?
+    - Sorry, but I'm currently occupied.
+    - Not a convenient time for a chat, try later.
+    - Can we schedule a call for later? I'm busy.
+    - Can't talk now, contact me again later.
+    - Busy right now, let's connect later.
+    - Currently engaged, let's discuss this later.
+    - I'm swamped at the moment, can we talk later?
+    - Can we continue this later? I'm busy now.
+    - Occupied currently, let's reconnect later.
+    - Sorry, I can't chat right now due to prior engagements.
+    - I'll be available in a bit, can you wait?
+    - Engaged with something, reach out later.
+    - Can we chat later? I'm currently busy.
+    - Can't chat now, call me back later.
+    - Busy with work, let's talk later.
+    - Currently tied up, can we connect later?
+    - Can we reschedule this discussion? I'm occupied.
+    - Sorry, I'm currently preoccupied.
+    - Not the right time for a chat, reconnect later.
+    - Can we continue this later? I'm busy.
+    - Can't engage in a conversation now, try again later.
+    - Apologies, but I can't talk
+    - And this is not the time I'm out on a date with my girl and
+    - actually in the taxi right now
+    - I'm talking to my boss right now.
+    - I'm I'm busy right now.
+    - I am busy.
+    - I'm in the meeting right now. Can you call your
+    - Can I call you later?
+    - I'm in a meeting right now. Can you call later?
+    - I'm busy right now.
+    - I am busy. I'm out with my family.
+    - But I am busy. Can you talk later?
+    - I am busy right now. Can you call later?
+    - I'm rather busy in a meeting right now.
+    - Busy
+- intent: are_you_bot
+  examples: |
+    - Is this a bot?
+    - Am I talking to a bot?
+    - Is this an automated system?
+    - Are you a computer program?
+    - Can you confirm if you're a bot?
+    - Is there a human behind this?
+    - Is this a machine talking?
+    - Are you AI?
+    - Is there a person or a bot here?
+    - Can you clarify if you're a bot?
+    - Is there a human operator?
+    - Are you a robot?
+    - Is this conversation with a machine?
+    - Can you tell me if you're automated?
+    - Is this a computer responding?
+    - Are you a machine or a human?
+    - Is this a real person or a robot?
+    - Are you a human or an AI?
+    - Is there a real person on the line?
+    - Is this an automated response?
+    - Are you a software program?
+    - Can you let me know if you're not a human?
+    - Is this interaction with a human or a bot?
+    - Can you clarify if you're a machine?
+    - Are you a real person or just a script?
+    - Is there a human operator available?
+    - Are you a chatbot?
+    - Is there a person behind these responses?
+    - Can you disclose if you're a robot?
+    - Are you AI driven?
+    - Is this a live agent or an AI?
+    - Are you a program?
+    - Is there a human representative here?
+    - Can you confirm if you're a bot or not?
+    - Is there a real human handling this?
+    - Are you a virtual assistant?
+    - Is this conversation with a real person?
+    - Can you tell me if you're a machine?
+    - Is there a human I can talk to?
+    - Is this a chatbot or a human?
+    - Are you a person or a robot?
+    - Is this an automated chat?
+    - Are you an AI?
+    - Is this a live chat or pre programmed?
+    - Are you a real agent or automated?
+    - Is this a virtual agent?
+    - Can you confirm if you're not a human?
+    - Is this conversation with a bot?
+    - Are you a machine learning model?
+    - Is there a human behind the responses?
+    - Can you clarify if you're a real person?
+    - Is this a robot talking?
+    - Are you a live person or a bot?
+    - Is this a scripted response?
+    - Are you a human or an algorithm?
+    - Is this a computer generated reply?
+    - Can you tell me if you're an AI?
+    - Is there a real operator available?
+    - Are you a program or a person?
+    - Is this an AI chat?
+    - Are you an automated system?
+    - Is this interaction with a bot or a human?
+    - Can you let me know if you're a real person?
+    - Is this an AI powered chat?
+    - Are you a chatbot or a human agent?
+    - Can you disclose if you're automated?
+    - Is there a human attendant here?
+    - Are you a machine or a real person?
+    - Is this conversation with a live agent?
+    - Are you a computer or a human being?
+    - Is this an AI chat or a human one?
+    - Are you a bot or a human assistant?
+    - Can you confirm if you're a machine?
+    - Is there a person behind these messages?
+    - Are you an AI generated response?
+    - Is this a robot or a person?
+    - Are you a program or a real representative?
+    - Is this conversation automated or not?
+    - Are you a chatbot or a customer service rep?
+    - Can you let me know if you're a human or not?
+    - Is this interaction with a virtual assistant?
+    - Are you a software or a human being?
+    - Is this a computer generated conversation?
+    - Are you an automated chat or a live agent?
+    - Can you confirm if you're a real person or not?
+    - Is this a bot or a human operator?
+    - Are you an AI or a real customer service rep?
+    - Can you tell me if you're an automated system?
+    - Is this a machine or a human helper?
+    - Are you a chatbot or a human representative?
+    - Can you clarify if you're a real agent or not?
+    - Is this interaction with an AI or a person?
+    - Are you a program or a living individual?
+    - Can you let me know if you're an AI or human?
+    - Is this conversation with a bot or a human?
+    - Are you a computer program or a person?
+    - Can you confirm if you're a chatbot?
+    - Is this a scripted conversation or not?
+    - Are you a machine learning model or a person?
+    - Can you tell me if you're a virtual assistant?
+    - Is this interaction with a robot or a human?
+    - Are you a software or a human operator?
+    - Can you let me know if you're a real agent?
+    - Is this a computer or a human conversation?
+    - Are you an AI chatbot or a customer service rep?
+    - Can you confirm if you're an AI or not?
+    - Is this interaction with a chatbot or a person?
+    - Are you a bot or a living individual?
+    - Can you disclose if you're a machine or not?
+    - Is this a programmed chat or a live one?
+    - Are you an automated assistant or a real person?
+    - Can you clarify if you're a computer or human?
+    - Is this interaction automated or human driven?
+    - Can you tell me if you're AI or not?
+    - Is this conversation with a virtual assistant?
+    - Are you a software program or a living being?
+    - Is this a machine generated response or not?
+    - Are you a program or a real service rep?
+    - Can you let me know if you're automated?
+    - Is this interaction with a robot or a person?
+    - Are you an AI or a human representative?
+    - Can you tell me if you're a machine or human?
+    - Is this a chatbot or a person talking?
+    - Are you a computer generated message?
+    - Is this interaction with a bot or a live agent?
+    - Are you a virtual assistant or a human?
+    - Can you disclose if you're an AI chat?
+    - Is this conversation with a software or human?
+    - Are you a program or a human being?
+    - Can you let me know if you're a bot or not?
+    - Is this interaction with an automated system?
+    - Are you a chatbot or a real person?
+    - Is this a scripted chat or a live one?
+    - Are you an AI or a human being?
+    - Can you tell me if you're a robot or not?
+    - Is this conversation with a real agent?
+    - Are you a computer or a human helper?
+    - Can you confirm if you're automated or not?
+    - Is this interaction with a bot or human?
+    - Are you a program or a living entity?
+    - Can you let me know if you're a chatbot?
+    - Is this a machine learning model or not?
+    - Are you an AI assistant or a person?
+    - Can you disclose if you're a real agent?
+    - Is this conversation automated or human?
+    - Are you a software or a human rep?
+    - Can you tell me if you're a computer?
+    - Is this interaction with an AI or human?
+    - Are you a bot or a human representative?
+    - Can you confirm if you're a machine or not?
+    - Is this a virtual agent or a person?
+    - Are you an automated response or a live one?
+    - Can you clarify if you're a chatbot or not?
+    - Are you a program or a real individual?
+    - Can you let me know if you're a bot or human?
+    - Is this interaction with a machine or person?
+    - Are you an AI or a human operator?
+    - Can you tell me if you're a software?
+    - Is this conversation automated or human driven?
+    - Are you a chatbot or a live agent?
+    - Are you a machine learning model or human?
+    - Can you let me know if you're a virtual assistant?
+    - Are you a software or a human?
+    - Can you clarify if you're a computer or not?
+    - Is this interaction with an AI or person?
+    - Are you a virtual assistant or a human agent?
+    - Can you disclose if you're automated or not?
+    - Is this conversation with a real agent or not?
+    - Can you tell me if you're a chatbot or not?
+    - Is this interaction automated or live?
+    - Is this a virtual chat or a human one?
+    - Are you a computer program or a real person?
+    - Is this conversation with a bot or human?
+    - Are you a software or a machine?
+    - Can you clarify if you're a chatbot?
+    - Is this interaction with a programmed system?
+    - Are you a virtual assistant or a real individual?
+    - Can you tell me if you're automated or not?
+    - Is this a machine or a human conversation?
+    - Can you confirm if you're a computer?
+    - Is this conversation with a robot or human?
+    - Are you a software or a real person?
+    - Are you a virtual agent or a human?
+    - Can you clarify if you're a machine or not?
+    - Is this conversation with an AI or a person?
+    - Are you a program or a human assistant?
+    - Is this interaction with a machine or human?
+    - Can you disclose if you're a software or not?
+    - Is this conversation with a real agent or bot?
+    - Are you a chatbot or a human operator?
+    - Can you let me know if you're automated or not?
+    - Are you a computer or a person?
+    - Can you tell me if you're a robot or human?
+    - Is this interaction automated or human?
+    - Is this conversation with a machine or human?
+    - Are you a virtual assistant or a real agent?
+    - Can you clarify if you're automated or not?
+    - Is this interaction with a software or human?
+    - Is this a machine learning model or a human?
+    - Are you an AI assistant or a real representative?
+    - Can you let me know if you're a computer or not?
+    - Are you a chatbot or a human?
+    - Can you disclose if you're a machine?
+    - Are you a virtual assistant or a person?
+    - Is this conversation with a machine or person?
+    - Can you let me know if you're a software?
+    - Are you a program or a human?
+    - Are you a virtual assistant or a human being?
+    - Are you a chatbot or a human assistant?
+    - Can you let me know if you're a computer?
+    - Are you an AI or a person?
+    - Is this a virtual agent or a live one?
+    - Are you a software program or a real individual?
+    - Can you tell me if you're an AI or human?
+    - Is this conversation with a bot or a person?
+    - Are you a machine or a real representative?
+    - Can you clarify if you're a bot or not?
+    - Is this interaction with a robot or human?
+    - Can you disclose if you're a computer or not?
+    - Is this conversation with an AI or human?
+    - Are you a bot or a human?
+    - Can you confirm if you're a software?
+    - Are you a virtual assistant or a human rep?
+    - Are you an AI or a real representative?
+    - Can you confirm if you're a bot or human?
+    - call center board.
+    - Are you a boat or a human?
+    - boat where you
+    - Are you about to?
+    - are you machine or computer?
+    - I think you are not human.
+    - Are you a bot?
